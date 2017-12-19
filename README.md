@@ -1,5 +1,7 @@
 Amazon Linux AMI 2015.09
 
+https://www.youtube.com/watch?v=ge8uHdmtb1M
+
 Elasticsearch 1.7.2
 ===================
 
